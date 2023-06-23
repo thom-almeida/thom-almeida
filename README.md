@@ -1,16 +1,13 @@
-### Hi there 👋
+![gifzin](https://media.tenor.com/OWlw6lDxzAAAAAAM/js.gif)
 
-<!--
-**thom-almeida/thom-almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Thomas Almeida
+### Mó paz 
+Desenvolvedor **FrontEnd** com foco em entregar interfaces incríveis e altamente performáticas.
 
-Here are some ideas to get you started:
+#### Tecnologias que afio o meu machado:
+![react](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/40px-React-icon.svg.png)
+![react](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/40px-Vue.js_Logo_2.svg.png)
+  ![typescript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/40px-Typescript_logo_2020.svg.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Meu Portfólio
+Todos os meus melhores projetos em frontend estão destacados [aqui!](https://thomalmeida.vercel.app/)
